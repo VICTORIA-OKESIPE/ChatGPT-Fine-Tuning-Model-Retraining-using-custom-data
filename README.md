@@ -19,4 +19,4 @@ The aim is to see if the architecture can generate high-quality images based on 
 
 - Copy the API key to your clipboard and keep it safe. This key will be used to authenticate your requests to the OpenAI API.
 
-- Next, you can use the API key to make requests to the OpenAI API using your preferred programming language or tool. I have used python programming language.
+- Next, you can use the API key to make requests to the OpenAI API using your preferred programming language or tool. I have used Python Programming Language.
