@@ -1,4 +1,4 @@
-# Openai Exploration for Image Generation and Trascription (Speech to Text)
+# Openai Exploration for Image Generation and Audio Trascriptions (Speech to Text)
 The ChatGPT project involves exploring the GPT-3.5 architecture for image generation and transcriptions (Speech to Text). 
 
 ## Aims
