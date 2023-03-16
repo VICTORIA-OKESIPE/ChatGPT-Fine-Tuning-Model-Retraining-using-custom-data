@@ -1,4 +1,4 @@
-# ChatGPT-Fine-Tuning-Model-Retraining-using-custom-data
+# Openai Exploration for Image Generation and Trascription (Speech to Text)
 The ChatGPT project involves exploring the GPT-3.5 architecture for image generation and transcriptions (Speech to Text). 
 
 ## Aims
