@@ -1,8 +1,9 @@
 # ChatGPT-Fine-Tuning-Model-Retraining-using-custom-data
-The ChatGPT project involves exploring the GPT-3.5 architecture for image generation. 
+The ChatGPT project involves exploring the GPT-3.5 architecture for image generation and transcriptions (Speech to Text). 
 
-## Aim
-The aim is to see if the architecture can generate high-quality images based on given text prompts.
+## Aims
+- The aim is to see if the architecture can generate high-quality images based on given text prompts - Further exploration & research required here.
+- Another aim is to see if the architecture can accurately transcript Speech to Test - Which it did!
 
 ## How to get OpenAI API keys
 - Go to the OpenAI website (https://openai.com/) and click on the "API" tab in the top menu.
