@@ -21,3 +21,12 @@ The Openai task involves exploring the GPT-3.5 architecture for image generation
 - Copy the API key to your clipboard and keep it safe. This key will be used to authenticate your requests to the OpenAI API.
 
 - Next, you can use the API key to make requests to the OpenAI API using your preferred programming language or tool. I have used Python Programming Language.
+
+## About the Audio Transcription function in the python code that can be found in this repository
+This is a Python function named "Transcribe_speech" that uses the OpenAI Audio API to transcribe speech. It takes one argument, "speech," which should be a string representing the path to the audio file that needs to be transcribed.
+
+Inside the function, the "openai.Audio.transcribe" method is used to perform the transcription. The first argument of this method is the model ID to use for the transcription, which in this case is "whisper-1". The second argument is the actual audio file, which is opened using the built-in "open" function with the "rb" mode (read-binary).
+
+The transcribed text is stored in the "res" variable, and then returned from the function using the "return" statement.
+
+Note that this function requires the OpenAI API keys and the OpenAI SDK to be installed and properly configured in order to work.
