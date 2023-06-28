@@ -1,4 +1,4 @@
-# Openai Exploration for Image Generation and Audio Trascriptions (Speech to Text)
+# Openai Exploration for Image Generation and Audio Transcriptions (Speech to Text)
 The Openai task involves exploring the GPT-3.5 architecture for image generation and audio transcriptions (Speech to Text). 
 
 ## Aims
