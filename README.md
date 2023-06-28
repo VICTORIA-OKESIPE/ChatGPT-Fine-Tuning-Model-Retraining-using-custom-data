@@ -38,4 +38,4 @@ Inside the function, the "openai.Audio.transcribe" method is used to perform the
 
 The transcribed text is stored in the "res" variable and then returned from the function using the "return" statement.
 
-Note that this function requires the OpenAI API keys and the OpenAI SDK to be installed and properly configured in order to work..
+Note that this function requires the OpenAI API keys and the OpenAI SDK to be installed and properly configured in order to work...
