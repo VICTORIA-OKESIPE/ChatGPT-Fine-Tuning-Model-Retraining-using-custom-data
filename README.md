@@ -10,7 +10,7 @@ The Openai task involves exploring the GPT-3.5 architecture for image generation
 
 - Scroll down to the "Get API Key" section and click on the "Get started for free" button. This will take you to the OpenAI API sign-up page (https://beta.openai.com/signup/).
 
-- Fill in your email address and choose a password to create an account, or signup using your google account.
+- Fill in your email address and choose a password to create an account, or signup using your Google account.
 
 - Once you have created an account, log in to the OpenAI API dashboard (https://beta.openai.com/dashboard/).
 
