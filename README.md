@@ -36,6 +36,6 @@ This is a Python function named "Transcribe_speech" that uses the OpenAI Audio A
 
 Inside the function, the "openai.Audio.transcribe" method is used to perform the transcription. The first argument of this method is the model ID to use for the transcription, which in this case is "whisper-1". The second argument is the actual audio file, which is opened using the built-in "open" function with the "rb" mode (read-binary).
 
-The transcribed text is stored in the "res" variable, and then returned from the function using the "return" statement.
+The transcribed text is stored in the "res" variable and then returned from the function using the "return" statement.
 
 Note that this function requires the OpenAI API keys and the OpenAI SDK to be installed and properly configured in order to work.
