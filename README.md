@@ -29,7 +29,7 @@ Inside the function, the "openai.Image.create" method is used to create the imag
 
 The generated image(s) are stored in the "res" variable, which is then returned from the function using the "return" statement.
 
-Note that this function requires the OpenAI API keys and the OpenAI SDK to be installed and properly configured in order to work.
+Note that this function requires the OpenAI API keys and the OpenAI SDK to be installed and properly configured in order to work..
 
 ## About the Audio Transcription function in the Python code that can be found in this repository
 This is a Python function named "Transcribe_speech" that uses the OpenAI Audio API to transcribe speech. It takes one argument, "speech," which should be a string representing the path to the audio file that needs to be transcribed.
