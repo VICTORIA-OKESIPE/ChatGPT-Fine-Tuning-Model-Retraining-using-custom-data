@@ -22,7 +22,7 @@ The Openai task involves exploring the GPT-3.5 architecture for image generation
 
 - Next, you can use the API key to make requests to the OpenAI API using your preferred programming language or tool. I have used Python Programming Language.
 
-## About the Image Generating function in the python code that can be found in this repository
+## About the Image Generating function in the Python code that can be found in this repository
 This is a Python function named "Create_images" that uses the OpenAI Image API to generate images based on a given text prompt. It takes one argument, "text," which should be a string representing the text prompt to use for generating the image.
 
 Inside the function, the "openai.Image.create" method is used to create the image. The first argument of this method is the text prompt to use for generating the image, which is passed as the "prompt" parameter. The "n" parameter specifies the number of images to generate (in this case, one). The "size" parameter specifies the size of the generated image(s), which is set to "512x512" in this example.
